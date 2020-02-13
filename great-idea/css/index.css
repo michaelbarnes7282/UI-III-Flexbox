@@ -112,6 +112,9 @@ header, .top-content, .bottom-content{
 	display:flex;
 	justify-content:center;
 }
+.services{
+	margin:0 25px;
+}
 .section2{
 	display:flex;
 	flex-wrap:wrap;
